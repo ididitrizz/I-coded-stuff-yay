@@ -1,1 +1,0 @@
-there is no reason why you would need to report a vulnerability bc nobody cares about a freaking game so quit whining i can barely code thats not what i mean but unless this is your os on a device it really DOES NOT MATTERRRRRRRRR
