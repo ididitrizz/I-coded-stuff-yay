@@ -8,7 +8,7 @@ RULES:
 
 Attempt to get as high of a hand value as possible without going over 21.
 
-J,Q and K are worth 10.
+J, Q and K are worth 10.
 
 Number cards are worth their value.
 
